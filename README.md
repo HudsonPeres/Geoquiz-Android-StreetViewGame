@@ -36,17 +36,5 @@ Para que as imagens do Street View carreguem, você precisa de uma chave de API 
    ```
    *(Atenção: O arquivo `local.properties` é ignorado pelo Git por padrão para que sua chave não vaze publicamente).*
 
-### 3. Abrindo no Android Studio
-1. Abra o Android Studio e selecione **Open**.
-2. Navegue até a pasta deste projeto e clique em OK.
-3. Aguarde o *Gradle Sync* terminar de baixar todas as dependências do Compose e do Maps.
-4. Clique no botão **Run** (Triângulo verde) na barra superior ou pressione `Shift + F10` para rodar o app no seu emulador ou dispositivo físico conectado.
-
-## 📦 Como gerar o arquivo APK
-Se desejar gerar o arquivo instalável (`.apk`) para enviar para amigos:
-1. No Android Studio, vá no menu superior e clique em **Build**.
-2. Vá em **Build Bundle(s) / APK(s)** e clique em **Build APK(s)**.
-3. Uma notificação aparecerá no canto inferior direito quando terminar. Clique em **locate** para abrir a pasta onde o arquivo `.apk` foi salvo.
-
 ---
-*Desenvolvido como um projeto de estudo de Kotlin, Jetpack Compose e integrações com o Google Maps.*
+*Desenvolvido como um projeto final da UC00609 Desenvolver de aplicações móveis (plataforma Android).*
